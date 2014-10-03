@@ -1,0 +1,7 @@
+{
+  "name": "google-castable-video#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-castable-video": "tschaeff/google-castable-video#master"
+  }
+}
